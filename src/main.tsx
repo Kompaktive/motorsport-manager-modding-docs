@@ -5,6 +5,7 @@ import App from "./App.tsx";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
+    <title>Motorsport Manager Modding Documentations</title>
     <App />
   </StrictMode>,
 );
